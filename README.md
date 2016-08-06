@@ -1,4 +1,6 @@
-# git101
-Intro to git 
+# Git 101
+Introduction to git.
 
-Some information about git..
+You can find the slides pdf file here.
+To view the browser version see [link](http://summermk.github.io/git-101/)
+
